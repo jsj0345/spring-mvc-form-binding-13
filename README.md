@@ -1,4 +1,4 @@
-# spring-mvc-thymeleaf-form-12
+# spring-mvc-form-binding-13
 
 Spring MVC와 Thymeleaf의 폼 통합 기능을 학습하고, 상품 등록·조회·수정 예제를 통해 폼 데이터가 객체에 바인딩되는 과정을 정리한 저장소입니다.
 
