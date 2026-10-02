@@ -27,6 +27,7 @@ Spring MVC Controller가 전달한 객체를 Thymeleaf 입력 폼과 연결하�
 - `RedirectAttributes`를 활용한 등록 완료 리다이렉트
 - 메모리 기반 상품 저장소와 테스트 데이터 구성
 - 상품 저장, 전체 조회, 수정 기능 테스트
+- [개념 정리 파일 보기](./src/main/docs)
 
 ## 디렉터리 구조
 
